@@ -1,4 +1,4 @@
-# Análise de Call Center
+# Análise de Aderência
 
 Este projeto contém uma análise de dados de um call center para verificar a aderência dos operadores aos horários escalados. Os dados são comparados entre duas plataformas: Bemoby e Avaya.
 
